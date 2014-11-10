@@ -1,0 +1,5 @@
+1. Dang ky user( Se lam nhung chua active- Sau khi chay mot thoi gian se cho active)
+2. Tien hanh dang thong tin( Day la nghiep vu thuc hien ke tiep cua Dang ky User)
+3. Xac nhan lai thong tin(Thuc hien in an)
+4. Thuc hien dang tin( Co thuc hien gui mail)
+5. Man hinh dang tin thanh cong xuat hien
