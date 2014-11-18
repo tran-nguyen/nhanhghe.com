@@ -1,9 +1,0 @@
-thong tin host
-host: hostinger.vn
-mail: pigpog.thanhnguyen@gmail.com
-pass: 09031990
-
-thong tin domain
-https://cpanel.inet.vn/domain.inet?m=domain_list
-ttnguyenit@gmail.com
-09031990
